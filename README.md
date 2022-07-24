@@ -2,10 +2,11 @@
 
 Aplicación web simple que permite a los usuarios crear notas, editarlar y eliminarlas.
 
+## Demo
+
 - Email: ensolvers@fake.com
 - Password: ensolvers
-
-## Demo
+- [Demo](https://namined.github.io/MyNotes/)
 
 ## ¿Cómo lo ejecuto en local? 🔧
 
