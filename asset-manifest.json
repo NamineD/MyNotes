@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/NamineD/MyNotes/static/js/main.4e0dfb5d.js",
-    "index.html": "/NamineD/MyNotes/index.html",
-    "main.4e0dfb5d.js.map": "/NamineD/MyNotes/static/js/main.4e0dfb5d.js.map"
+    "main.js": "/MyNotes/static/js/main.4e0dfb5d.js",
+    "index.html": "/MyNotes/index.html",
+    "main.4e0dfb5d.js.map": "/MyNotes/static/js/main.4e0dfb5d.js.map"
   },
   "entrypoints": [
     "static/js/main.4e0dfb5d.js"
